@@ -1,7 +1,7 @@
 public class Lemonade
 {
-    public static void main (String[] args)
+    public class Store
     {
-        
+        System.out.print(" Welcome. How many cups would you like to buy? 10 for ")
     }
 }
